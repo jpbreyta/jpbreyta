@@ -9,6 +9,6 @@
 🌱 **Projects:**  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 *Harvest Hub* (School Project)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 *Sewer Connect* (Commissioned Website)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔹 *360 view for San Juan Nepomuceno Parish Church* (Commissioned Website) 
+&nbsp;&nbsp;&nbsp;&nbsp;🔹 *360 view for San Juan Nepomuceno Parish Church* (Commissioned Website)  
 &nbsp;&nbsp;&nbsp;&nbsp;🔹 *Ice Breaker Game* (Personal Project) 
 ☕ **Fun Fact:** I love coffee—especially when stressed! Always excited to explore new languages and frameworks.  
