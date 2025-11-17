@@ -45,8 +45,8 @@ I build things, break them, then fix them with enough caffeine to power a small 
 
 ## GitHub Stats
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jpbreyta&show_icons=true&theme=transparent" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbreyta&layout=compact&theme=transparent" height="150"/>
 </p>
 
 ---
