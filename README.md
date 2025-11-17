@@ -1,32 +1,27 @@
-# <img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/solid/hand-wave.svg" width="26" style="vertical-align:middle"> Hi there, I'm Paul!
+Hi there, I'm Paul! 👋
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/solid/code.svg" width="18" style="vertical-align:middle"> **Backend Developer | BSIT Student**
+Backend Developer | BSIT Student
 
----
+💻 Tech Stack
+<p> <img src="https://skillicons.dev/icons?i=php" width="40"/> <img src="https://skillicons.dev/icons?i=laravel" width="40"/> <img src="https://skillicons.dev/icons?i=js" width="40"/> <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> </p>
+🧠 Other Languages
+<p> <img src="https://skillicons.dev/icons?i=cpp" width="40"/> <img src="https://skillicons.dev/icons?i=cs" width="40"/> <img src="https://skillicons.dev/icons?i=java" width="40"/> <img src="https://skillicons.dev/icons?i=py" width="40"/> </p>
+🌐 Interests
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/solid/rocket.svg" width="16" style="vertical-align:middle"> **Tech Stack**
-- PHP
-- Laravel
-- JavaScript
-- Node.js *(Exploring)*
+Web Development
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/regular/keyboard.svg" width="16" style="vertical-align:middle"> **Other Languages**
-- C++
-- C#
-- Visual Basic
-- C
-- Java
-- Python
+AI Automation
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/solid/globe.svg" width="16" style="vertical-align:middle"> **Interests**
-- Web Development
-- AI Automation
+📁 Projects
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/solid/folder-open.svg" width="16" style="vertical-align:middle"> **Projects**
-- *Harvest Hub* (School Project)
-- *Sewer Connect* (Commissioned Website)
-- *360 view for San Juan Nepomuceno Parish Church* (Commissioned Website)
-- *Ice Breaker Game* (Personal Project)
+Harvest Hub (School Project)
 
-<img src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/svgs/solid/coffee.svg" width="16" style="vertical-align:middle"> **Fun Fact**
-I love coffee—especially when stressed! Always excited to explore new languages and frameworks.
+Sewer Connect (Commissioned Website)
+
+360 View for San Juan Nepomuceno Parish Church (Commissioned Website)
+
+Ice Breaker Game (Personal Project)
+
+☕ Fun Fact
+
+Absolutely powered by coffee while debugging life.
