@@ -10,7 +10,10 @@ I build things, break them, then fix them with enough caffeine to power a small 
   <img src="https://skillicons.dev/icons?i=php" width="40" />
   <img src="https://skillicons.dev/icons?i=laravel" width="40" />
   <img src="https://skillicons.dev/icons?i=js" width="40" />
+  <img src="https://skillicons.dev/icons?i=vue" width="40" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+  <img src="https://skillicons.dev/icons?i=django" width="40" />
+  <img src="https://skillicons.dev/icons?i=electron" width="40" />
   <img src="https://skillicons.dev/icons?i=postgres" width="40" />
   <img src="https://skillicons.dev/icons?i=supabase" width="40" />
 </p>
