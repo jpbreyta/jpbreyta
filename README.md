@@ -16,7 +16,9 @@ I build things, break them, then fix them with enough caffeine to power a small 
   <img src="https://skillicons.dev/icons?i=electron" width="40" />
   <img src="https://skillicons.dev/icons?i=postgres" width="40" />
   <img src="https://skillicons.dev/icons?i=supabase" width="40" />
+  <img src="https://skillicons.dev/icons?i=maven" width="40" />
 </p>
+
 
 ---
 
