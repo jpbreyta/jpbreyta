@@ -1,57 +1,24 @@
-# Hi, I'm Paul 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=John%20Paul%20Bryan%20D.%20Reyta&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Student&descSize=18&descAlignY=55&textBg=false"/>
 
-**Backend Developer | BSIT Student at BSU Lipa**
-
-> *"Whatever you do, work at it with all your heart, as working for the Lord, not for human masters." — Colossians 3:23*
-
-I am an Information Technology student passionate about architecting scalable backend systems, integrating AI automation, and bridging the gap between academic concepts and production-ready applications. I build, break, and optimize systems with purpose and dedication.
-
----
-
-## 💻 Tech Stack
-
-**Core Technologies**
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,nodejs,django,electron,postgres,supabase,maven" />
-</p>
-
-**Other Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,py" />
-</p>
-
----
-
-## 🚀 What I'm Focused On
-- **Backend Architecture:** Designing robust and scalable database schemas and APIs.
-- **AI Automation:** Streamlining workflows and integrating intelligent tools.
-- **Project Execution:** Turning school ideas and capstones into real-world, production-level software.
-
----
-
-## 🛠️ Featured Projects
-* **Harvest Hub** — Academic Project
-* **Sewer Connect** — Commissioned Website
-* **360° View for San Juan Nepomuceno Parish Church** — Commissioned Website
-* **Ice Breaker Game** — Personal Project
-
----
-
-## 📊 GitHub Analytics
-
+## GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpbreyta&show_icons=true&theme=transparent&include_all_commits=true" height="150" alt="Paul's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpbreyta&layout=compact&theme=transparent" height="150" alt="Top Languages"/>
+  <a href="https://github.com/jpbreyta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jpbreyta&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="jpbreyta's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=jpbreyta&theme=dark&hide_border=true&cache_seconds=86400" alt="jpbreyta's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=jpbreyta&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="John Paul Bryan D. Reyta's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=jpbreyta&theme=dark&radius=10" alt="jpbreyta's Activity Graph" />
 </p>
 
----
 
-## 🌐 Let's Connect
-
-I am always open for collaborations, system builds, or just nerding out about code and technology. 
-
-<p>
-  <a href="https://github.com/jpbreyta"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/></a>
+## Languages & Tools
+<p align="center">
+  <a href="https://github.com/jpbreyta">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jpbreyta&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
+
