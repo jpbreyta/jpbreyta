@@ -1,11 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,100:2563eb&text=John%20Paul%20Bryan%20D.%20Reyta&fontSize=38&fontColor=ffffff&fontAlignY=36&desc=BS%20Information%20Technology%20Student%20%E2%80%A2%20Backend%20%26%20Full-Stack%20Developer&descSize=15&descAlignY=57" alt="John Paul Bryan D. Reyta" />
+# John Paul Bryan D. Reyta
 
-### Building practical systems from ideas, requirements, and real-world problems.
+**BS Information Technology Student • Backend & Full-Stack Developer**
 
-I work across **web development, backend systems, desktop applications, databases, automation, and applied AI**.  
-My goal is simple: build software that is useful, maintainable, and ready to grow.
+Building practical systems with **web development, backend architecture, databases, automation, and applied AI**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-jpbreyta-181717?style=flat-square&logo=github)](https://github.com/jpbreyta)
 
@@ -46,17 +45,6 @@ I enjoy turning academic requirements, commissioned builds, and personal ideas i
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs" alt="Other programming languages" />
 </p>
-
----
-
-## Selected Projects
-
-| Project | Description | Technologies |
-| --- | --- | --- |
-| [**Road Accident Detection & Alert System**](https://github.com/jpbreyta/Emergency-Road-Accident-Alert-System) | Computer-vision system for detecting road accidents and supporting automated emergency alerts. | Python, TensorFlow, Keras, OpenCV, Flask, Twilio |
-| [**Smart Home Energy Analytics**](https://github.com/jpbreyta/SmartHome-Energy) | Data-focused project exploring household energy consumption, forecasting, and time-series analysis. | Python, Data Analytics, Time Series |
-| [**360° Parish Church Virtual Tour**](https://github.com/jpbreyta/360) | Interactive web-based 360° experience created for San Juan Nepomuceno Parish Church. | Web Development, 360° Media |
-| [**Ice Breaker Game**](https://github.com/jpbreyta/icebrakernipaul) | A lightweight interactive project built for group activities and engagement. | Web Development |
 
 ---
 
